@@ -1,2 +1,2 @@
-# bootra1n
-bootra1n update linux based checkra1n
+# Bootra1n Updated bash script
+Just enough Linux to run Checkra1n
